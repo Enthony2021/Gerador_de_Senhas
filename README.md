@@ -1,7 +1,7 @@
 # Gerador_de_Senhas
 
 Gerador de senhas feito no curso FullStack (JavaScript e TypeScript) pela Udemy.
-Aqui temos: Webpack + Node.JS + Babel.io + JS + CSS + HTML 
+Aqui temos: Webpack + Node.JS + Babel.io + TypeScript + POO
 
 Para rodar os scripts em sua máquina após o donwload ou cópia deste repositório você deve:
 
